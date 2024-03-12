@@ -12,7 +12,6 @@ Olá, chamo-me Pedro Afonso Moreira Lopes! Sou um apaixonado por vídeo-jogos, c
 
 ## 🚀 Habilidades Técnicas
 
-- Linguagens de Programação: 
 <div id="skills" align="center">
   <h3> 
     :hammer_and_wrench: Languages and Tools 
