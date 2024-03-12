@@ -4,7 +4,7 @@
 
 # Pedro Lopes
 
-[![LinkedIn](www.linkedin.com/in/pedro-lopesss)
+[LinkedIn](www.linkedin.com/in/pedro-lopesss)
 
 ## 👋 Olá!
 
