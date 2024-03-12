@@ -21,6 +21,8 @@ Olá, chamo-me Pedro Afonso Moreira Lopes! Sou um apaixonado por vídeo-jogos, c
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Popes117&show_icons=true&locale=en&layout=compact" alt="Popes117" /></p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arturleite6&show_icons=true&locale=en&layout=compact" alt="arturleite6" /></p>
+
 ## 🏆 Projetos Destacados
 
 - [LI3](https://github.com/Popes117/LI3): Uma descrição breve do projeto e suas principais características.
