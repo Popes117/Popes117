@@ -2,9 +2,7 @@
   <img src="https://media.istockphoto.com/id/1470350413/vector/software-developer-working-with-computers.jpg?s=612x612&w=0&k=20&c=rMDiFqhfe3PUzikjGeCuSl-x4YlXFCcnM_psO4MlOU0=" alt="Software Developer">
 </div>
 
-# Pedro Lopes
-
-## 👋 Olá!
+## 👋 Olá, sou o Pedro Lopes!
 
 Olá, chamo-me Pedro Afonso Moreira Lopes! Sou um apaixonado por vídeo-jogos, cinema, música, séries de televisão e estar entre amigos! Estou atualmente no último semestre da licenciatura de Engenharia Informática na Universidade do Minho e à procura de um estágio de verão, para assim poder ganhar experiência profissional na área após terminar a licenciatura!
 
