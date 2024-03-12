@@ -39,6 +39,4 @@ Olá, chamo-me Pedro Afonso Moreira Lopes! Sou um apaixonado por vídeo-jogos, c
 - [Projeto 3](https://github.com/[seu-usuario]/projeto3): Uma descrição breve do projeto e suas principais características.
 
 
-Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração, projetos interessantes ou qualquer outro assunto relacionado ao desenvolvimento de software. Estou ansioso para ouvir de você! 😊
-
-![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=DiasEllen26&show_icons=true&theme=merko)
+![Popes117 GitHub stats](https://github-readme-stats.vercel.app/api?username=Popes117&show_icons=true&theme=merko)
