@@ -4,6 +4,8 @@
 
 ## 👋 Olá!
 
+
+
 Chamo-me Pedro Afonso Moreira Lopes! Sou um apaixonado por vídeo-jogos, cinema, música, séries de televisão e estar entre amigos! Estou atualmente no último semestre da licenciatura de Engenharia Informática na Universidade do Minho e à procura de um estágio de verão, para assim poder ganhar experiência profissional na área após terminar a licenciatura!
 
 ## 🚀 Habilidades Técnicas
