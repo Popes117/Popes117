@@ -2,10 +2,6 @@
   <img src="https://github.com/Popes117/Me/assets/98462445/d27a479f-e0f5-48eb-89f1-ed40a4abf1e8">
 </p>
 
-<div align="center">
-  ![2024-03-14_02-45](https://github.com/Popes117/Me/assets/98462445/d27a479f-e0f5-48eb-89f1-ed40a4abf1e8)
-</div>
-
 ## 👋 Olá!
 
 Chamo-me Pedro Afonso Moreira Lopes! Sou um apaixonado por vídeo-jogos, cinema, música, séries de televisão e estar entre amigos! Estou atualmente no último semestre da licenciatura de Engenharia Informática na Universidade do Minho e à procura de um estágio de verão, para assim poder ganhar experiência profissional na área após terminar a licenciatura!
