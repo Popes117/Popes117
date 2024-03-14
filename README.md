@@ -1,4 +1,6 @@
-![2024-03-14_02-45](https://github.com/Popes117/Me/assets/98462445/d27a479f-e0f5-48eb-89f1-ed40a4abf1e8)
+<div align="center">
+  <img src=![2024-03-14_02-45](https://github.com/Popes117/Me/assets/98462445/d27a479f-e0f5-48eb-89f1-ed40a4abf1e8)>
+</div>
 
 ## 👋 Olá!
 
