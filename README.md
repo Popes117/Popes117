@@ -21,6 +21,6 @@ Chamo-me Pedro Afonso Moreira Lopes! Sou um apaixonado por vídeo-jogos, cinema,
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Popes117&show_icons=true&locale=en&layout=compact" alt="Popes117" />
 </p>
 
-## CV
+## 📃 CV
 
 **PT :** https://github.com/Popes117/Popes117/files/14705963/CV.pdf
