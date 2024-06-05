@@ -2,13 +2,13 @@
   <img src="https://github.com/Popes117/Me/assets/98462445/d27a479f-e0f5-48eb-89f1-ed40a4abf1e8">
 </p>
 
-## 👋 Olá!
+## 👋 Hi!
 
 
 
-Chamo-me Pedro Afonso Moreira Lopes! Sou um apaixonado por vídeo-jogos, cinema, música, séries de televisão e estar entre amigos! Estou atualmente no último semestre da licenciatura de Engenharia Informática na Universidade do Minho e à procura de um estágio de verão, para assim poder ganhar experiência profissional na área após terminar a licenciatura!
+My name is Pedro Afonso Moreira Lopes! I'm passionate about video games, cinema, music, TV series and being with friends! I'm currently in the last semester of my Software Engineering degree at the University of Minho and looking for a summer internship, so I can gain professional experience in the area after finishing my degree!
 
-## 🚀 Habilidades Técnicas
+## 🚀 Technical Habilities
 
 <p>
 
