@@ -23,7 +23,7 @@ My name is Pedro Afonso Moreira Lopes! I'm passionate about video games, cinema,
 
 ## 📃 CV
 
-**PT :** https://github.com/Popes117/Popes117/files/14705963/CV.pdf
+**PT :** https://github.com/user-attachments/files/17607266/CV.pdf
 
 
-**ENG :** https://github.com/user-attachments/files/15594656/CV-Eng.pdf
+**ENG :** https://github.com/user-attachments/files/17607269/CV-Eng.pdf
