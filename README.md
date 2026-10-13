@@ -5,7 +5,7 @@
 ## 👋 Hi!
 
 
-Hello, my name is Pedro Afonso Moreira Lopes! I am 23 years old and passionate about video games, cinema, music, TV series, and spending time with friends. I am currently interning at CheckMarx to gain professional experience while continuing my studies, specifically writing my dissertation in Advanced Computing, as part of the Master’s program in Software Engineering at the University of Minho.
+Hello, my name is Pedro Afonso Moreira Lopes! I am 23 years old and passionate about video games, cinema, music, TV series, and spending time with friends. I am currently writing my dissertation in Advanced Computing, as part of the Master’s program in Software Engineering at the University of Minho, while I'm searching for an exciting job in Software Development.
 
 ## 🚀 Technical Habilities
 
