@@ -18,6 +18,6 @@ Hello, my name is Pedro Afonso Moreira Lopes! I am 23 years old and passionate a
 
 ## 📃 CV
 
-**PT :** https://github.com/user-attachments/files/30195160/CV-PT.pdf
+**PT :** https://github.com/user-attachments/files/33394668/CVPT.pdf
 
-**ENG :** https://github.com/user-attachments/files/30195177/CV-Eng.pdf
+**ENG :** https://github.com/user-attachments/files/33394681/CV-Eng.pdf
